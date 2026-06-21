@@ -37,8 +37,9 @@ I always try to learn new technologies to satisfy my curiosity and improve my sk
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ddnamn&show_icons=true&theme=radial&hide_border=true&bg_color=00000000" alt="Aminuddin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ddnamn&show_icons=true&theme=dark&hide_border=true" alt="Aminuddin's GitHub Stats" />
 </p>
+
 
 ---
 
