@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=react" alt="react" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=express" alt="express" width="50" height="50"/>
-</p>
 
 👋 Hello... My full name is M.Aminuddin, so you can call me "Amin". Currently, I am a student at the State University of Surabaya, pursuing a Bachelor's degree in Informatics Engineering.
 
@@ -50,4 +44,5 @@ I always try to learn new technologies to satisfy my curiosity and improve my sk
 
 ### 🚀 Activity:
 * **FullStack Javascript & Laravel** - PT.PBH (2025 - 2026)
-* **Bootcamp/Study Independent Kampus Merdeka** - React and React Native at Hacktiv8 (2023)
+* **Intership Kampus Merdeka** - QA and frontend dev at Homeschooling kak Seto  (2023)
+* **Bootcamp/Study Independent Kampus Merdeka** - React and React Native at Hacktiv8 (2022)
