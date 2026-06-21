@@ -1,5 +1,3 @@
-# Hi there, I'm M. Aminuddin. 👋
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=react" alt="react" width="50" height="50"/>
