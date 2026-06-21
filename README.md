@@ -17,37 +17,19 @@ I always try to learn new technologies to satisfy my curiosity and improve my sk
 
 #### **Familiar With (JavaScript Ecosystem)**
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
-  </a>
 </p>
 
 #### **Currently learning (DevOps & Monitoring)**
 <p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://grafana.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/>
-  </a>
-  <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=prometheus" alt="prometheus" width="40" height="40"/>
-  </a>
 </p>
 
 ---
@@ -62,8 +44,8 @@ I always try to learn new technologies to satisfy my curiosity and improve my sk
 
 ### 📫 Let's Connect!
 
-* **LinkedIn:** [M. Aminuddin R.](https://www.linkedin.com/in/muhammad-aminuddin-r-435334250/)
-* **Email:** [amnddn8876@gmail.com](mailto:amnddn8876@gmail.com)
+* **LinkedIn:** [M. Aminuddin](https://www.linkedin.com/in/muhammad-aminuddin-r-435334250/)
+* **Email:**    [amnddn8876@gmail.com](mailto:amnddn8876@gmail.com)
 
 ---
 
