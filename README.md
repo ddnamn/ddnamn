@@ -1,5 +1,5 @@
 
-👋 Hello... My full name is M.Aminuddin, you can call me "Amin". Currently, I am a student at the State University of Surabaya, pursuing a Bachelor's degree in Informatics Engineering.
+👋 Hello... My full name is M.Aminuddin, you can call me "Amin". Currently,Currently, I am a graduate of the State University of Surabaya, pursuing a career in Informatics Engineering.
 
 I always try to learn new technologies to satisfy my curiosity and improve my skills. Passionate about modern mobile and web technologies using JavaScript/TypeScript, keeping in mind the latest trends and techniques.
 
@@ -7,14 +7,16 @@ I always try to learn new technologies to satisfy my curiosity and improve my sk
 
 ### 🛠️ Tech Stack & Tools
 
-#### **Familiar With (JavaScript Ecosystem)**
+#### **Familiar With (mainly JavaScript Ecosystem)**
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
-    <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
-    <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
-    <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/>
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=prisma" alt="prisma" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
 </p>
 
 #### **Currently learning (DevOps & Monitoring)**
