@@ -1,4 +1,4 @@
-# Hi there, I'm M. Aminuddin R. 👋
+# Hi there, I'm M. Aminuddin. 👋
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="50" height="50"/>
@@ -46,7 +46,7 @@ I always try to learn new technologies to satisfy my curiosity and improve my sk
 ### 📫 Let's Connect!
 
 * **LinkedIn:** [M. Aminuddin](https://www.linkedin.com/in/muhammad-aminuddin-r-435334250/)
-* **Email:**    [amnddn8876@gmail.com](mailto:amnddn8876@gmail.com)
+* **Email   :** [amnddn8876@gmail.com](mailto:amnddn8876@gmail.com)
 
 ---
 
