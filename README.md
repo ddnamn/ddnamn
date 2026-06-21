@@ -44,7 +44,7 @@ I always try to learn new technologies to satisfy my curiosity and improve my sk
 
 ---
 
-### 🚀 Activity:
-* **FullStack Javascript & Laravel** - PT.PBH (2025 - 2026)
-* **Intership Kampus Merdeka** - QA and frontend dev at Homeschooling kak Seto  (2023)
-* **Bootcamp/Study Independent Kampus Merdeka** - React and React Native at Hacktiv8 (2022)
+### 🚀 Experience & Activities:
+* **Full-Stack Developer (JavaScript & Laravel)** – PT. PBH (2025 - 2026)
+* **Internship Kampus Merdeka** – QA & Front-End Developer at Homeschooling Kak Seto (2023)
+* **Certified Independent Study (Kampus Merdeka)** – React & React Native at Hacktiv8 (2022)
