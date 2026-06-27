@@ -13,9 +13,12 @@ I always try to learn new technologies to satisfy my curiosity and improve my sk
   <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=bun" alt="bun" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=hono" alt="hono" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=prisma" alt="prisma" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=drizzle" alt="drizzle" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
 </p>
