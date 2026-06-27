@@ -1,7 +1,7 @@
 
-👋 Hello... My full name is M.Aminuddin, you can call me "Amin". Currently, I am a graduate of the State University of Surabaya, pursuing a career in Informatics Engineering.
+👋 Hello..., my full name is M. Aminuddin, you can call me Amin. I am an Informatics Engineering graduate from the State University of Surabaya, currently pursuing a career in Web Development and DevOps.
 
-I always try to learn new technologies to satisfy my curiosity and improve my skills. Passionate about modern mobile and web technologies using JavaScript/TypeScript, keeping in mind the latest trends and techniques.
+I always try to learn new technologies to satisfy my curiosity and improve my skills. Passionate about modern mobile and web technologies, keeping in mind the latest trends and techniques.
 
 ---
 
