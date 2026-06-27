@@ -9,23 +9,20 @@ I always try to learn new technologies to satisfy my curiosity and improve my sk
 
 #### **Familiar With (mainly JavaScript Ecosystem)**
 <p align="left">
-  <!-- Bahasa & Frontend -->
+  <!-- Ekosistem Bahasa & Frontend -->
   <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/>
   
-  <!-- Runtime & Backend Framework -->
+  <!-- Ekosistem Runtime & Backend -->
   <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=bun" alt="bun" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/-Hono-e36028?style=for-the-badge&logo=hono&logoColor=white" alt="hono" height="40"/>
+  <!-- Hono diperbaiki pakai CDN alternatif -->
+  <img src="https://simpleicons.vercel.app/hono/e36028" alt="hono" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/-JWT-black?style=for-the-badge&logo=json-web-tokens&logoColor=000000" alt="jwt" height="40"/>
-  
-  <!-- Database, ORM & Validasi -->
+  <!-- Ekosistem Database & ORM -->
   <img src="https://skillicons.dev/icons?i=prisma" alt="prisma" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/-Drizzle-c5f74f?style=for-the-badge&logo=drizzle&logoColor=black" alt="drizzle" height="40"/>
-  <img src="https://img.shields.io/badge/-Valibot-e3b341?style=for-the-badge&logo=valibot&logoColor=black" alt="valibot" height="40"/>
   <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/>
   
   <!-- Styling -->
