@@ -9,31 +9,26 @@ I always try to learn new technologies to satisfy my curiosity and improve my sk
 
 #### **Familiar With (mainly JavaScript Ecosystem)**
 <p align="left">
-  <!-- Ekosistem Bahasa & Frontend -->
   <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=threejs" alt="threejs" width="40" height="40"/>
   
-  <!-- Ekosistem Runtime & Backend -->
   <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=bun" alt="bun" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
-  <!-- Hono diperbaiki pakai CDN alternatif -->
   <img src="https://simpleicons.vercel.app/hono/e36028" alt="hono" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/>
-  <!-- Ekosistem Database & ORM -->
+  
   <img src="https://skillicons.dev/icons?i=prisma" alt="prisma" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/>
   
-  <!-- Styling -->
   <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
 </p>
 
 #### **Currently still learning (DevOps & Monitoring)**
 <p align="left">
     <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
-    <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/>
-    <img src="https://skillicons.dev/icons?i=prometheus" alt="prometheus" width="40" height="40"/>
 </p>
 
 ---
