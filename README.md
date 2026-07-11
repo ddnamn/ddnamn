@@ -33,15 +33,6 @@ I always try to learn new technologies to satisfy my curiosity and improve my sk
 
 ---
 
-### 📊 GitHub Stats
-
-<p style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ddnamn&show_icons=true&theme=dark&hide_border=true" alt="Aminuddin's GitHub Stats" />
-</p>
-
-
----
-
 ### 📫 Let's Connect!
 
 * **LinkedIn:** [M. Aminuddin](https://www.linkedin.com/in/muhammad-aminuddin-r-435334250/)
