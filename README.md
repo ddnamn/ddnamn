@@ -35,9 +35,9 @@ I always try to learn new technologies to satisfy my curiosity and improve my sk
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<center>
   <img src="https://github-readme-stats.vercel.app/api?username=ddnamn&show_icons=true&theme=dark&hide_border=true" alt="Aminuddin's GitHub Stats" />
-</p>
+</center>
 
 
 ---
@@ -51,5 +51,5 @@ I always try to learn new technologies to satisfy my curiosity and improve my sk
 
 ### 🚀 Experience & Activities:
 * **Full-Stack Developer (React + Laravel)** – PT. PBH (2025 - 2026)
-* **Internship Kampus Merdeka** – QA & Front-End Developer at Homeschooling Kak Seto (2023)
+* **Internship Kampus Merdeka (React , Cypress)** – QA & Front-End Developer at Homeschooling Kak Seto (2023)
 * **Certified Independent Study (Kampus Merdeka)** – React & React Native at Hacktiv8 (2022)
