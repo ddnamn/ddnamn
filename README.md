@@ -36,7 +36,7 @@ I always try to learn new technologies to satisfy my curiosity and improve my sk
 ### 📫 Let's Connect!
 
 * **LinkedIn:** [M. Aminuddin](https://www.linkedin.com/in/muhammad-aminuddin-r-435334250/)
-* **Email   :** [amnddn8876@gmail.com](mailto:amnddn8876@gmail.com)
+* **Email   :** [aminrusdi1110@gmail.com](mailto:aminrusdi1110@gmail.com)
 
 ---
 
